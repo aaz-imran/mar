@@ -34,7 +34,7 @@
   
   <li>
   Normalized metal artifact reduction (NMAR) in computed tomography (Med Phys 2010). <br>
-  [<a href="https://pubmed.ncbi.nlm.nih.gov/21089784/"></a>]
+  [<a href="https://pubmed.ncbi.nlm.nih.gov/21089784/">Paper</a>]
   </li>
   
   <li>
