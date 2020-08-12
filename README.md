@@ -49,17 +49,17 @@
   
   <li>
   Metal Artifact Reduction for Polychromatic X-ray CT Based on a Beam-Hardening Corrector (IEEE TMI 2016). <br>
-  <a href="https://pubmed.ncbi.nlm.nih.gov/26390451/">Paper</a>]
+  [<a href="https://pubmed.ncbi.nlm.nih.gov/26390451/">Paper</a>]
   </li>
   
   <li>
   Adversarial Sparse-View CBCT Artifact Reduction (MICCAI 2018). <br>
-  <a href="https://arxiv.org/abs/1812.03503">Paper</a>]
+  [<a href="https://arxiv.org/abs/1812.03503">Paper</a>]
   </li>
   
   <li>
   Generative Mask Pyramid Network for CT/CBCT Metal Artifact Reduction with Joint Projection-Sinogram Correction (MICCAI 2019). <br>
-  <a href="https://arxiv.org/abs/1907.00294">Paper</a>]
+  [<a href="https://arxiv.org/abs/1907.00294">Paper</a>]
   </li>
     
 </ol>
