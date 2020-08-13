@@ -14,7 +14,7 @@
   
   <li>
   ADN: Artifact Disentanglement Network for Unsupervised Metal Artifact Reduction (IEEE TMI 2020).<br>
-  [<a href="https://github.com/liaohaofu/adn">Paper]&nbsp;&nbsp;[<a href="https://arxiv.org/abs/1908.01104">Code</a>]
+  [<a href="https://arxiv.org/abs/1908.01104">Paper]&nbsp;&nbsp;[<a href="https://github.com/liaohaofu/adn">Code</a>]
   </li>
   
   <li>
