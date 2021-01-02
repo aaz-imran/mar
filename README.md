@@ -3,6 +3,21 @@
 ### Current Literature
 <ol>
   <li>
+    Current and Novel Techniques for Metal Artifact Reduction at CT: Practical Guide for Radiologists (Radiographics 2018).<br>
+    [<a href="https://pubs.rsna.org/doi/10.1148/rg.2018170102?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed">Paper</a>]
+  </li>
+  
+  <li>
+    Learning metal artifact reduction in cardiac CT images with moving pacemakers (MedIA 2020).<br>
+    [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841520300220">Paper</a>]
+  </li>
+  
+  <li>
+    Metal artifact reduction for small metal implants on CT: Which image reconstruction algorithm performs better? (EJR 2020).<br>
+    [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0720048X20301595">Paper</a>]
+  </li>
+  
+  <li>
     DuDoNet: Dual Domain Network for CT Metal Artifact Reduction (CVPR 2019).<br>
     [<a href="https://arxiv.org/abs/1907.00273v1">Paper</a>]
   </li>
