@@ -1,7 +1,9 @@
 # MAR: Metal Artifact Reduction in CT Images
 
 ### Current Literature
+
 <ol>
+  
   <li>
     Current and Novel Techniques for Metal Artifact Reduction at CT: Practical Guide for Radiologists (Radiographics 2018).<br>
     [<a href="https://pubs.rsna.org/doi/10.1148/rg.2018170102?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed">Paper</a>]
@@ -45,6 +47,11 @@
   <li>
   Convolutional Neural Network Based Metal Artifact Reduction in X-Ray Computed Tomography (IEEE TMI 2018). <br>
   [<a href="https://ieeexplore.ieee.org/document/8331163">Paper</a>]
+  </li>
+  
+  <li>
+  Reducing Metal Streak Artifacts in CT Images via Deep Learning: Pilot Results  (Fully3D 2017). <br>
+  [<a href="https://www.semanticscholar.org/paper/Reducing-Metal-Streak-Artifacts-in-CT-Images-via-%3A-Gjesteby-Yang/1134caf27f52cf608c1144e87bfbab214da68ac4">Paper</a>]
   </li>
   
   <li>
